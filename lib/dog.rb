@@ -16,6 +16,6 @@ puts lassie.name
 
 class Dog
   def Bark
-    puts bark!
+    puts "woof"!
   end
 end
