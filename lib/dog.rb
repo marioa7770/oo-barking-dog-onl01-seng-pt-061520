@@ -15,4 +15,7 @@ lassie.bark = "Bark"
 puts lassie.name
 
 class Dog
-  def
+  def Bark
+    puts bark!
+  end
+end
